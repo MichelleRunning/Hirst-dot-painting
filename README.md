@@ -23,6 +23,12 @@ This project is part of The 100 days of Code Challenge. The goal of this project
 - Easy to modify: dot size, spacing, and colors can be customized
 - Lightweight and beginner-friendly code
 
+### Screenshot
+
+Here’s the output of the dot painting program:
+
+![Dot Painting Screenshot](screenshot-output.jpg)
+
 ### Installation
 
 1. Clone the repository:
@@ -30,3 +36,4 @@ This project is part of The 100 days of Code Challenge. The goal of this project
 
 git clone https://github.com/<your-username>/MichelleRunning.git
 cd MichelleRunning
+
