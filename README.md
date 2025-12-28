@@ -13,7 +13,7 @@ This project creates a visually appealing dot painting using the following steps
 
 ### Motivation
 
-This project is part of The 100 days of Code Challenge. The goal of this project is to explore how programming can intersect with visual art. By combining Python logic with aesthetic design, it creates a simple yet effective way to experiment with generative art.
+This project is part of my 100 days of Code Challenge and explores how programming can be used to experiment with generative art.
 
 ### Key Features
 
