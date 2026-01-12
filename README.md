@@ -31,7 +31,7 @@ This project creates a visually appealing dot painting using the following steps
 
 Below is the output preview of the dot painting program:
 
-![Dot Painting Screenshot](screenshot-output.jpg)
+![Dot Painting Screenshot](output-preview.jpg)
 
 ### How to Run
 
